@@ -21,7 +21,7 @@ Develope Tech
 DataBase
 ---
 ![.MS-SQL](https://img.shields.io/badge/MSSQL-CC2927?&style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=#CC2927)
-![.MY-SQL](https://img.shields.io/badge/MYSQL-4479A1?&style=for-the-badge&logo=MYSQL&logoColor=#4479A1)
+![.MY-SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 IDE
 ---
