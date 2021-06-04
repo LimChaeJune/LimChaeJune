@@ -2,7 +2,7 @@
 
 | GitHub Stats | GitHub Language |
 | --- | --- |
-|[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=LimChaeJune)](https://github.com/anuraghazra/github-readme-stats) | [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LimChaeJune&langs_count=5)]()|      
+|[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=LimChaeJune)](https://github.com/LimChaeJune) | [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LimChaeJune&langs_count=5)](https://github.com/LimChaeJune)|      
 ---
 
 Develope Tech
