@@ -12,7 +12,7 @@ Develope Tech
 ![.Unity](https://img.shields.io/badge/Unity-000000?&style=for-the-badge&logo=Unity&logoColor=#000000)      
 
 ![.CSharp](	https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=#239120)
-![.HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=#E34F26)
+![.HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![.CSS](https://img.shields.io/badge/CSS-1572B6?&style=for-the-badge&logo=css3&logoColor=#1572B6)
 ![.JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![.JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
