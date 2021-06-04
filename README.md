@@ -1,11 +1,9 @@
+<h2><p align="center">Hi there:wave:  I'm Developer LimChaeJune</p></h2>
 
-My Github Stats
+| GitHub Stats | GitHub Language |
+| --- | --- |
+|[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=LimChaeJune)](https://github.com/anuraghazra/github-readme-stats) | [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LimChaeJune&langs_count=5)]()|      
 ---
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=LimChaeJune)](https://github.com/anuraghazra/github-readme-stats)   
-
-My Github Language
----
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LimChaeJune&langs_count=5)]()     
 
 Develope Tech
 ---
@@ -23,7 +21,7 @@ Develope Tech
 DataBase
 ---
 ![.MS-SQL](https://img.shields.io/badge/MSSQL-CC2927?&style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=#CC2927)
-![.MY-SQL](https://img.shields.io/badge/MYSQL-4479A1?&style=for-the-badge&logo=MySql&logoColor=#4479A1)
+![.MY-SQL](https://img.shields.io/badge/MYSQL-4479A1?&style=for-the-badge&logo=MYSQL&logoColor=#4479A1)
 
 IDE
 ---
