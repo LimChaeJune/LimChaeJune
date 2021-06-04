@@ -1,16 +1,34 @@
-[![LimChaeJune GitHub stats](https://github-readme-stats.vercel.app/api?username=LimChaeJune)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
-**LimChaeJune/LimChaeJune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My Github Stats
+---
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=LimChaeJune)](https://github.com/anuraghazra/github-readme-stats)   
 
-Here are some ideas to get you started:
+My Github Language
+---
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LimChaeJune&langs_count=5)]()     
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Develope Tech
+---
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![.Blazor](https://img.shields.io/badge/Blazor-512BD4.svg?&style=for-the-badge&logo=Blazor&logoColor=#512BD4"/>)
+![.Unity](https://img.shields.io/badge/Unity-000000?&style=for-the-badge&logo=Unity&logoColor=#000000)      
+
+![.CSharp](	https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=#239120)
+![.HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=#E34F26)
+![.CSS](https://img.shields.io/badge/CSS-1572B6?&style=for-the-badge&logo=css3&logoColor=#1572B6)
+![.JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![.JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![.MarkDown](https://img.shields.io/badge/MarkDown-000000?style=for-the-badge&logo=MarkDown&logoColor=#000000)
+
+DataBase
+---
+![.MS-SQL](https://img.shields.io/badge/MSSQL-CC2927?&style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=#CC2927)
+![.MY-SQL](https://img.shields.io/badge/MYSQL-4479A1?&style=for-the-badge&logo=MySql&logoColor=#4479A1)
+
+IDE
+---
+![.Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?&style=for-the-badge&logo=Visual%20Studio&logoColor=#5C2D91)
+![.Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?&style=for-the-badge&logo=Visual-Studio-Code&logoColor=#007ACC)
+![.Unity](https://img.shields.io/badge/Unity-000000?&style=for-the-badge&logo=Unity&logoColor=#000000)      
+
+
