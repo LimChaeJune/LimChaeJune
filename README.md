@@ -5,7 +5,7 @@
 |[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=LimChaeJune)](https://github.com/LimChaeJune) | [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LimChaeJune&langs_count=5)](https://github.com/LimChaeJune)|      
 ---
 
-Language Skills 
+Languages Skill
 ---
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![.Blazor](https://img.shields.io/badge/Blazor-512BD4.svg?&style=for-the-badge&logo=Blazor&logoColor=#512BD4"/>)
