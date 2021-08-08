@@ -12,8 +12,8 @@ Languages Skill
 ![.Unity](https://img.shields.io/badge/Unity-000000?&style=for-the-badge&logo=Unity&logoColor=#000000)      
 
 ![.CSharp](	https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=#239120)
-![.Go](	https://img.shields.io/badge/Go?style=for-the-badge&logo=Go&logoColor=#00ADD8)
-![.Python](	https://img.shields.io/badge/Python?style=for-the-badge&logo=Python&logoColor=#3776AB)
+![.Go](	https://img.shields.io/badge/Go-badg?style=for-the-badge&logo=Go&logoColor=#00ADD8)
+![.Python](	https://img.shields.io/badge/Python-badge?style=for-the-badge&logo=Python&logoColor=#3776AB)
 ![.HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![.CSS](https://img.shields.io/badge/CSS-1572B6?&style=for-the-badge&logo=css3&logoColor=#1572B6)
 ![.JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
