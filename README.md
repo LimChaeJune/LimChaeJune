@@ -1,4 +1,4 @@
-⚙️ &nbsp;About Me
+### 👋&nbsp;Hi I'm Front-End Developer chaejune 
 
 ⚙️ &nbsp;GitHub Analytics
 ---
