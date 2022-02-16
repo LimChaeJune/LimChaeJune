@@ -1,5 +1,4 @@
-<h2><p align="center">About Me</p></h2>
-
+⚙️ &nbsp;About Me
 
 ⚙️ &nbsp;GitHub Analytics
 ---
