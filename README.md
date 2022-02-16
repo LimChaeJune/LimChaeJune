@@ -6,7 +6,7 @@
 <p align="center">
   <a href="https://github.com/AVS1508">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LimChaeJune&show_icons=true&theme=dracula"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=LimChaeJune&layout=compact&langs_count=5&theme=dracula"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=LimChaeJune&exclude_repo=Unity_Examples,CodingTest&layout=compact&langs_count=5&theme=dracula"/>
   </a>
 </p>
 
