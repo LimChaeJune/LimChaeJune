@@ -1,7 +1,7 @@
 <h2><p align="center">About Me</p></h2>
 
 
-### ⚙️ &nbsp;GitHub Analytics
+⚙️ &nbsp;GitHub Analytics
 ---
 <p align="center">
   <a href="https://github.com/AVS1508">
