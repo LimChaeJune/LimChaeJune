@@ -22,7 +22,7 @@
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;  
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Jira](https://img.shields.io/badge/-JIRASoftware-05122A?style=flat&logo=JIRASoftware&logoColor=0052CC)&nbsp;
+![Jira](https://img.shields.io/badge/-JIRASoftware-05122A?style=flat&logo=JIRA&logoColor=0052CC)&nbsp;
 
 
 
